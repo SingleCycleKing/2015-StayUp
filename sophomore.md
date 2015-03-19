@@ -16,6 +16,7 @@ DATA:username=NIANTIC&password=Sk9JTiBUSEUgUkVTSVNUQU5DRSBJVCBJUyBUSU1FIFRPIE1PV
 Tips:[HttpURLConnection](http://developer.android.com/reference/java/net/HttpURLConnection.html)
 
 ##3.Algorithm (20 Points)
+> Date.Structure+Algorithm=Progarm
 
 - The equation is the key to program.Tonight you will learn one of ADT and use it to solve one simple problem.(you can search any information through the internet)
 
