@@ -122,8 +122,8 @@ db.execSQL("INSERT INTO user ('201','kami_control','godness')");
 ###5.Android (25 Points)
 
 - Try to complete a simple app. There are two interfaces like the following pictures in the app. [Here are some tips](http://developer.android.com/guide/topics/ui/controls.html)
- ![](https://github.com/SingleCycleKing/UniqueStudio/blob/master/1.png)
- ![](https://github.com/SingleCycleKing/UniqueStudio/blob/master/2.png)
+ ![](https://github.com/SingleCycleKing/UniqueStudio/blob/master/img/1.png)
+ ![](https://github.com/SingleCycleKing/UniqueStudio/blob/master/img/2.png)
 
 
 - Show the basic data at the second page which is filled at the first page.  
