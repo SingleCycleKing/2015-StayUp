@@ -25,18 +25,18 @@ Tips:[HttpURLConnection](http://developer.android.com/reference/java/net/HttpURL
 For more information click [BinaryTree](http://zh.wikipedia.org/wiki/%E4%BA%8C%E5%8F%89%E6%A0%91)
 What we will use tonight is only **the expression tree**.
 
-- The Postfix Expression
-We often use **the infix expression** for calculation in daily life. Just like $$5+2*2=9$$.
-But it is easier for you to design a calculator using **the postfix expression**. We can transform the infix expression above into the postfix expression below.$$ 5,2,2,*,+$$
+- The Postfix Expression:
+We often use **the infix expression** for calculation in daily life. Just like  **5+2*2=9**.
+But it is easier for you to design a calculator using **the postfix expression**. We can transform the infix expression above into the postfix expression below.** 5,2,2,*,+**
 For more information click [postfix expression](http://zh.wikipedia.org/wiki/%E9%80%86%E6%B3%A2%E5%85%B0%E8%A1%A8%E7%A4%BA%E6%B3%95)
 
 ####First Task
-- use C/C++ or Java to implement the binary tree and construct the expression tree below.
+- Use C/C++ or Java to implement the binary tree and construct the expression tree below.
 ![expression tree](http://f.hiphotos.baidu.com/zhidao/pic/item/ac345982b2b7d0a251b12249cbef76094a369aed.jpg)
 >  Hint for C
 * linked list
 * Warning for Java
-* not use the built-in class like ArrayList...
+* Do not use the built-in class like ArrayList...
 
 
 ####Second Task
