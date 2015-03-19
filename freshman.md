@@ -128,4 +128,4 @@ db.execSQL("INSERT INTO user ('201','kami_control','godness')");
 
 - Show the basic data at the second page which is filled at the first page.  
 
-- When user click "select avatar" or "select background", it will open gallery. Please show the pictures at the second page if you can. [Here](http://stackoverflow.com/questions/11144783/how-to-access-an-image-from-the-phones-photo-gallery)
+- When user click "select avatar" or "select background", it will open gallery. Please show the pictures at the second page if you can. [Tips Here](http://stackoverflow.com/questions/11144783/how-to-access-an-image-from-the-phones-photo-gallery)
