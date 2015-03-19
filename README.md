@@ -4,11 +4,11 @@
 
 #####Attention: There are some tips in the test paper. However, if you want to go through them, you must use proxy to "go over the wall".
 
-[Part A](https://github.com/SingleCycleKing/UniqueStudio/blob/master/sophomore.md)
+[Part A](https://github.com/UniqueStudio/AndroidTest/blob/master/sophomore.md)
 
-[Part B](https://github.com/SingleCycleKing/UniqueStudio/blob/master/freshman.md)
+[Part B](https://github.com/UniqueStudio/AndroidTest/blob/master/freshman.md)
 
-[cocos2d-x](https://github.com/SingleCycleKing/UniqueStudio/blob/master/cocos2d.md)
+[cocos2d-x](https://github.com/UniqueStudio/AndroidTest/blob/master/cocos2d.md)
 
 ###Java Environment
 - [Download Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
