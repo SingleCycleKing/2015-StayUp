@@ -18,9 +18,9 @@ Tips:[HttpURLConnection](http://developer.android.com/reference/java/net/HttpURL
 ##3.Algorithm (20 Points)
 > Date.Structure+Algorithm=Progarm
 
-- The equation is the key to program.Tonight you will learn one of ADT and use it to solve one simple problem.(you can search any information through the internet)
+- The equation is the key to program.Tonight you will learn one ADT and use it to solve one simple problem.(you can search any information through the internet)
 
-- Binary Tree is an abstract data type.Just Like this.
+- Binary Tree is an ADT.Just Like this.
 ![tree picture](http://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Binary_tree.png/350px-Binary_tree.png)
 For more information click [BinaryTree](http://zh.wikipedia.org/wiki/%E4%BA%8C%E5%8F%89%E6%A0%91)
 What we will use tonight is only **the expression tree**.
@@ -122,9 +122,9 @@ Tip：MySQL和SQLite有不同的地方（）
 
 ##5.Android (30 Points)
 
-- Please complete a simple music player. Here is what you need to accomplish.
-- When user first opens the app, he will see the guide page which say "Hello". And when he opens the app again, it won't appear again.
-- There is a listview to show all the music files in the sdcard. And when user click an item in the list, it will start an activity to play the music.
-- The activity has two buttons. One of them is used to play or stop the music, and the other one is used to play next music.
+- Please complete a simple music player. Here are some arguments you need to accomplish.
+- When user first opens the app, he will see the guide page which says "Hello". And when he opens the app again, it won't appear again.
+- There is a listview to show all the music files in the sdcard. And when user clicks an item in the list, it will start an activity to play the music.
+- The activity has two buttons. One of them is used to play or stop the music, and the other one is used to play the next.
 - The music can be played in the background.
 - Tip: [Here](http://hukai.me/android-training-course-in-chinese/)

@@ -39,7 +39,7 @@ D.A finally block is executed, only if an exception occurs.<br/>
 ##Subjective Item
 
 ###1.JAVA Basic Question (15 Points)
-- Please consider the follow codes and tell us what will be output.
+- Please consider the follow code and tell us what will be output.
 Tip: Please pay attention to the order of the output.
 
 ```java
@@ -81,7 +81,7 @@ public class Android extends Unique {
 
 ###2.Algorithm (15 Points)
 - Please simulate the following scene with single direction circular linked list.
-- Scene: There are some(n) students which are in clockwise order sit in a circle. From the first student to the "m" student, the last of them leave the circle. Could you tell me the number of the last student to leave. Please write a piece of code to calculate the result.
+- Scene: Some students are sitting in a circle, numerical ordered clockwisely. There is a number M, a death number. Starting from No.1, the student counted No.M will be eliminated. Which number will be the final one left? Please write a piece of code to calculate the result.
 
 ![](https://github.com/SingleCycleKing/UniqueStudio/blob/master/img/3.png)
 
@@ -111,7 +111,7 @@ int responseCode = conn.connect();
 ```
 
 ###4.Database (20 Points)
-- Structured Query Language (SQL) is a coding language which is used to design dababase. It is usually used to access to database. Thus we ask you to learn how to use it. For android developer, google has developed a helper which is called as SQLiteOpemHelper. Please try to have access to a database and insert a data into database whit helper. Here are some keywords for you: ContentValues and SQLiteDatabase.<br>
+- Structured Query Language (SQL) is a coding language which is used to design dababase. It is usually used for database access. Thus we ask you to learn how to use it. For android developer, google has developed a helper which is called as SQLiteOpemHelper. Please try to have access to a database and insert a data into database with the helper. Here are some keywords for you: ContentValues and SQLiteDatabase.<br>
 Tip:[SQLiteDatabase](http://developer.android.com/reference/android/database/sqlite/SQLiteDatabase.html) [SQLiteOpenHelper](http://developer.android.com/reference/android/database/sqlite/SQLiteOpenHelper.html) [ContentValues](http://developer.android.com/reference/android/content/ContentValues.html)
 
 - SQLiteDatabase can also execute your own sql sentences. Please try to create a table named user with execSQL. And the first column of the table is named userid(int). The second of that is named username(character string).
@@ -128,6 +128,6 @@ db.execSQL("INSERT INTO user ('201','kami_control','godness')");
  ![](https://github.com/SingleCycleKing/UniqueStudio/blob/master/img/2.png)
 
 
-- Show the basic data at the second page which is filled at the first page.  
+- Show the basic data on the second page which is filled at the first page.  
 
-- When user click "select avatar" or "select background", it will open gallery. Please show the pictures at the second page if you can. [Tips Here](http://stackoverflow.com/questions/11144783/how-to-access-an-image-from-the-phones-photo-gallery)
+- When user click "select avatar" or "select background", it will open gallery. Please show the pictures on the second page if you can. [Tips Here](http://stackoverflow.com/questions/11144783/how-to-access-an-image-from-the-phones-photo-gallery)
