@@ -9,8 +9,8 @@
 
 ##2.HTTP (15 Points)
 
-- Please use following parameters to connect with remote service. And write down the HTTP request that the server socket will receive. <br/>
-URL:http://hustunique.com:80/exgfs.json?from=1449803471000<br>
+- Please use following parameters to connect with remote service. Then write down what the server socket will receive and what will be responsed. <br/>
+URL:http://stayup.sinaapp.com?from=xxx (Replace xxx with your name)<br>
 RequestProperty:"User-Agent", "UniqueStudio Spider"<br>
 DATA:username=NIANTIC&password=Sk9JTiBUSEUgUkVTSVNUQU5DRSBJVCBJUyBUSU1FIFRPIE1PVkU
 Tips:[HttpURLConnection](http://developer.android.com/reference/java/net/HttpURLConnection.html)
