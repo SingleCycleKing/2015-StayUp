@@ -1,6 +1,6 @@
 #2015 Unique Studio Android Team Stay Up Examination
 
-####Tip: If you are freshman, please finish the questions of part B. If you choose to finish the questions of part A, however, you can gain double scores. If you are sophomore, you must finish the questions of part A. If you are familiar with cocos2d-x and want to develop games, please finish the third test paper.
+####Tip: If you are freshman, please finish part B. If you choose to finish part A, however, you can gain higher score. If you are sophomore, you must finish part A. If you are familiar with cocos2d-x and want to develop games, please finish the third test paper.
 
 #####Attention: There are some tips in the test paper. However, if you want to go through them, you must use a proxy to "go over the wall".
 

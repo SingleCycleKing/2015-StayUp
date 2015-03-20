@@ -1,7 +1,7 @@
 #2015 Unique Studio Android Team Stay Up Examination (Part B)
 
 
-#####Tip: If you are freshman, please finish the questions of part B. If you choose to finish the questions of part A, however, you can gain double scores. If you are sophomore, you must finish the questions of part A.
+#####Tip: If you are freshman, please finish part B. If you choose to finish part A, however, you can gain higher score. If you are sophomore, you must finish part A.
 
 
 ## Multiple Choice Question (10 Points)
