@@ -82,6 +82,7 @@ public class Android extends Unique {
 ###2.Algorithm (15 Points)
 - Please simulate the following scene with single direction circular linked list.
 - Scene: There are some(n) students which are in clockwise order sit in a circle. From the first student to the "m" student, the last of them leave the circle. Could you tell me the number of the last student to leave. Please write a piece of code to calculate the result.
+
 ![](https://github.com/SingleCycleKing/UniqueStudio/blob/master/img/3.png)
 
 ###3.Http (15 Points)
