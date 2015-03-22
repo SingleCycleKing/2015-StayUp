@@ -24,4 +24,3 @@
 ###Software Development Kit:SDK
 - [Download SDK](http://developer.android.com/sdk/index.html#top)
 
-###If you think this paper is not bad, please give me a star. 
